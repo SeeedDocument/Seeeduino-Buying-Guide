@@ -1,16 +1,19 @@
 ---
 title: Seeeduino Buying Guide
-nointro:
+category: Tutorial
+oldwikiname:  AT Command Tester
+prodimagename:
+surveyurl:
 ---
 
 ---
-## Why we are there
+## Why we are here
 
 Well，we have lots of Seeeduino Boards to achieve all kinds of functions.But you may find that it is difficult to make a choice among them all.So we make the list below and wish that it may help you.
 
 ## What's the difference
 
-| products_name                                               | sku       |     Where to buy     | Micro Controller | Input Voltage | I/O Output Voltage | ClockSpeed | DigitalI/0 | AnalogInputs | PWM | UART | Grove interface | FlashSpace | Bootloader       |
+| products_name                                               | sku       |     Where to buy     | Micro Controller | Input Voltage | I/O Output Voltage | Clock Speed | Digital I/0 | Analoge Inputs | PWM | UART | Grove interface | FlashSpace | Boot loader       |
 |-------------------------------------------------------------|-----------|----------|------------------|---------------|--------------------|------------|------------|--------------|-----|------|-----------------|------------|------------------|
 | Seeeduino Mega                                              | 102010007 | [Purchase](https://www.seeedstudio.com/Seeeduino-Mega-p-717.html) | Atmega2560       | 7-12V         | 5V/3.3V            | 16MHZ      | 70         | 16           | 14  | 4    | 0               | 256K       | STK500v2         |
 | Seeeduino Lotus - ATMega328 Board with Grove Interface      | 102020001 | [Purchase](https://www.seeedstudio.com/Seeeduino-Lotus-ATMega328-Board-with-Grove-Interface-p-1942.html) | Atmega328        | 7-12V         | 5V                 | 16MHZ      | 14         | 7            | 6   | 2    | 12              | 32K        | Optiboot         |
@@ -19,7 +22,7 @@ Well，we have lots of Seeeduino Boards to achieve all kinds of functions.But yo
 | Seeeduino Stalker V3.1                                      | 102010070 | [Purchase](https://www.seeedstudio.com/Seeeduino-Stalker-V3.1-p-2686.html) | Atmega328P       | 3.7V          | 3.3V               | 8MHZ       | 14         | 6            | 0   | 1    | 2               | 32K        | Arduino Fio      |
 | Seeeduino GPRS                                              | 102010016 | [Purchase](https://www.seeedstudio.com/Seeeduino-GPRS-p-1909.html) | Atmega32U4       | 9-12V         | 5V/3.3V            | 16MHZ      | 20         | 12           | 7   | 1    | 0               | 32K        | Caterina         |
 | Seeeduino Lite                                              | 102010008 | [Purchase](https://www.seeedstudio.com/Seeeduino-Lite-p-1487.html) | Atmega32U4       | 7-12V         | 5V/3.3V            | 16MHZ      | 20         | 12           | 7   | 1    | 2               | 32K        | Caterina         |
-| Seeeduino Cloud - Arduino Yun compatible openWRT controller | 102010021 | [Purchase](https://www.seeedstudio.com/Seeeduino-Cloud-Arduino-Yun-compatible-openWRT-controller-p-2123.html) | Atmega32U4       | 7-12V         | 5V                 | 16MHZ      | 20         | 12           | 7   | 2    | 2               | 32K        | Caterina         |
+| Seeeduino Cloud - Arduino Yun compatible openWRT controller | 102010021 | [![](https://github.com/SeeedDocument/Seeeduino-Buying-Guide/raw/master/img/Seeeduino%20Cloud.jpg)](https://www.seeedstudio.com/Seeeduino-Cloud-Arduino-Yun-compatible-openWRT-controller-p-2123.html) | Atmega32U4       | 7-12V         | 5V                 | 16MHZ      | 20         | 12           | 7   | 2    | 2               | 32K        | Caterina         |
 | Seeeduino LoRaWAN                                           | 102010128 | [Purchase](https://www.seeedstudio.com/Seeeduino-LoRaWAN-p-2780.html) | ATSAMD21G18      | 3.7V          | 3.3V               | 48MHZ      | 14         | 6            | 18  | 2    | 4               | 256K       | Arduino Zero     |
 | Seeeduino LoRaWAN W/GPS                                     | 102010129 | [Purchase](https://www.seeedstudio.com/Seeeduino-LoRaWAN-W-GPS-p-2781.html) | ATSAMD21G18      | 3.7V          | 3.3V               | 48MHZ      | 14         | 6            | 18  | 2    | 4               | 256K       | Arduino Zero     |
 
